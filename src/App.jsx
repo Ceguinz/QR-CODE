@@ -36,7 +36,7 @@ function App() {
         <a href={qrCodeUrl} download="qrcode.png" className='btn-download'>Download</a>
       </div>
       <div className="footer">
-        <span>✌<a href="https://github.com/edutrindade" target="_blank" rel="noreferrer" className="author">Eduardo Trindade</a></span>
+        <span>👨‍🦯<a href="https://github.com/ceguinz" target="_blank" rel="noreferrer" className="author">Vinicius Silva</a></span>
       </div>
     </div>
   )
